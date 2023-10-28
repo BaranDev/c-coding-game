@@ -1,0 +1,50 @@
++-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| Array Question                                                                                                                          | Desired Output                       |
++-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| Create an array of 5 integers and initialize it with values 1, 2, 3, 4, and 5. Print the array.                                   | 1 2 3 4 5                                  |
+| Initialize an array of 4 floating-point numbers with values 3.14, 2.71, 1.618, and 0.577. Print the array.                        | 3.14 2.71 1.618 0.577                      |
+| Given an array of integers: 8, 12, 5, 27, 19, 3, 15, 22. Find and print the maximum value in the array.                           | 27                                         |
+| Given an array of integers: 8, 12, 5, 27, 19, 3, 15, 22. Find and print the minimum value in the array.                           | 3                                          |
+| Create an array of 6 strings, each representing a month of the year. Print the array.                                             | January February March April May June      |
+| Given an array of characters: 'H', 'e', 'l', 'l', 'o'. Print the characters as a string.                                          | Hello                                      |
+| Initialize an array with 6 integers: 4, 7, 2, 9, 5, 8. Calculate and print their sum.                                             | 35                                         |
+| Given an array of integers: 6, 18, 3, 12, 9, 7. Print the even numbers in the array.                                              | 6 18 12 8                                  |
+| Given an array of integers: 6, 18, 3, 12, 9, 7. Print the odd numbers in the array.                                               | 3 9 7                                      |
+| Create an array of 5 names (strings) and print the names in reverse order.                                                        | Name5 Name4 Name3 Name2 Name1              |
+| Given an array of integers: 10, 20, 30, 40, 50. Calculate and print the average value of the numbers.                             | 30                                         |
+| Create an array of 4 doubles: 1.5, 2.0, 0.5, 3.0. Calculate and print the product of the elements.                                | 4.5                                        |
+| Given an array of characters: 'A', 'e', 'i', 'o', 'U'. Count and print the number of vowels in the array.                         | 5                                          |
+| Given an array of integers: 4, 5, 6, 8, 10. Calculate and print the product of all even numbers.                                  | 1920                                       |
+| Given an array of integers: 2, 3, 5, 7, 8. Calculate and print the sum of prime numbers.                                          | 17                                         |
+| Create an array of 3 words: 'Apple', 'Banana', 'Cherry'. Print the words in alphabetical order.                                   | Apple Banana Cherry                        |
+| Given an array of characters: 'A', 'b', 'C', 'd', 'E'. Count and print the number of uppercase letters.                           | 3                                          |
+| Given an array of integers: 8, 14, 22, 5, 10. Find and print the index of the first occurrence of number 22.                      | 2                                          |
+| Given an array of integers: 17, 9, 23, 6, 12. Print the array in descending order.                                                | 23 17 12 9 6                               |
+| Given an array of integers: 3, 7, 1, 5, 9. Find and print the sum of numbers at even indices.                                     | 4                                          |
+| Create an array of 3 sentences: 'Hello, World!', 'Coding is fun.', 'Programming is cool.' Print the sentence with the most words. | Programming is cool. 						 |
++-------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| Loop Question                                                                                                                     | Desired Output                           	|
++-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| Print numbers from 1 to 10 using a for loop                                                                                       | 1 2 3 4 5 6 7 8 9 10                      |
+| Print the even numbers from 2 to 20 using a for loop                                                                              | 2 4 6 8 10 12 14 16 18 20                 |
+| Print the odd numbers from 1 to 19 using a for loop                                                                               | 1 3 5 7 9 11 13 15 17 19                  |
+| Print the first 10 natural numbers using a while loop                                                                             | 1 2 3 4 5 6 7 8 9 10                      |
+| Print the squares of numbers from 1 to 10 using a for loop                                                                        | 1 4 9 16 25 36 49 64 81 100               |
+| Print the first 10 Fibonacci numbers using a for loop                                                                             | 0 1 1 2 3 5 8 13 21 34                  	|
+| Print the numbers in reverse order from 10 to 1 using a for loop                                                                  | 10 9 8 7 6 5 4 3 2 1                    	|
+| Print the factorial of 12 using a while loop                                                                                		| 479001600    								|
+| Print the multiplication table of 5 using a for loop (e.g. 2 4 6 8 10 12 14 16 18 20)                                             | 5 10 15 20 25 30 35 40 45 50              |
+| Print the numbers in descending order from 10 to 1 using a while loop                                                             | 10 9 8 7 6 5 4 3 2 1                    	|
+| Print the sum of numbers from 1 to 100 using a for loop                                                                           | 5050                                     	|
+| Print the powers of 2 from 1 to 10 using a while loop                                                                             | 1 2 4 8 16 32 64 128 256 512             	|
+| Print the reverse of the string 'I love programming in C!' using while loop                                                       | !C ni gnimmargorp evol I                 	|
+| Print 2 arrows that look at each other, each with 50 '-' in it using a for loop (e.g. -----><-----)                               | --------------------------------------------------><-------------------------------------------------- |
+| Print the ASCII values of lowercase letters from 'a' to 'z' using a for loop                                                      | 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122  |
+| Print the ASCII values of uppercase letters from 'A' to 'Z' using a for loop                                                      | 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90                         |
+| Print numbers from 97 to 500 using a while loop                                                                                   | 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122  |
+| Print 'Hello, World!' 10 times using a for loop (e.g. 'Hello, World! Hello, World! Hello, World!...')                             | Hello, World! Hello, World! Hello, World! Hello, World! Hello, World! Hello, World! Hello, World! Hello, World! Hello, World! Hello, World! |
+| Print the characters of 'Niels Henrik David Bohr' with a space in between them using a for loop                                   | N i e l s   H e n r i k   D a v i d   B o h r |
+| Calculate and print the sum of digits of 8849522839452457783 using a while loop (e.g. 232: 7)                                     | 103                                      	|
++-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+
