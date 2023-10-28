@@ -61,4 +61,8 @@ The game provides feedback on your code's success rate and helps you learn from 
 
 ## Enjoy the Game!
 
-We hope you enjoy playing the C Code Challenge Game. Feel free to contribute, add new challenges, or make improvements to the game. Happy coding!
+I hope you enjoy playing the C Code Challenge Game. Feel free to contribute, add new challenges, or make improvements to the game. Happy coding!
+
+##P.S.
+
+At this point there are nearly 20 questions for only 2 subjects. But i will add many more in the future!
